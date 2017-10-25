@@ -1,0 +1,596 @@
+1499680895128	geckodriver	INFO	Listening on 127.0.0.1:20753
+1499680897293	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499680903947	Marionette	INFO	Listening on port 20759
+1499680904728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1420_13701_21099_20719&req=2&csor=4&pwd=sel&cb=jQuery110201086197410113997_1499680905936&_=1499680905941, line 1: TypeError: jQuery110201086197410113997_1499680905936 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1420_13701_21099_20719&req=2&csor=2&pwd=s&cb=jQuery110201086197410113997_1499680905936&_=1499680905939, line 1: TypeError: jQuery110201086197410113997_1499680905936 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1420_13701_21099_20719&req=2&csor=3&pwd=se&cb=jQuery110201086197410113997_1499680905936&_=1499680905940, line 1: TypeError: jQuery110201086197410113997_1499680905936 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1420_13701_21099_20719&req=2&csor=1&cb=jQuery110201086197410113997_1499680905936&_=1499680905938, line 1: TypeError: jQuery110201086197410113997_1499680905936 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1420_13701_21099_20719&req=2&csor=6&pwd=selen&cb=jQuery110201086197410113997_1499680905936&_=1499680905943, line 1: TypeError: jQuery110201086197410113997_1499680905936 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1420_13701_21099_20719&req=2&csor=5&pwd=sele&cb=jQuery110201086197410113997_1499680905936&_=1499680905942, line 1: TypeError: jQuery110201086197410113997_1499680905936 is not a function
+1499680906935	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1420_13701_21099_20719&req=2&csor=7&pwd=seleni&cb=jQuery110201086197410113997_1499680905936&_=1499680905944, line 1: TypeError: jQuery110201086197410113997_1499680905936 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1420_13701_21099_20719&req=2&csor=8&pwd=seleniu&cb=jQuery110201086197410113997_1499680905936&_=1499680905945, line 1: TypeError: jQuery110201086197410113997_1499680905936 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium2&json=1&p=3&sid=1420_13701_21099_20719&req=2&csor=9&pwd=selenium&cb=jQuery110201086197410113997_1499680905936&_=1499680905946, line 1: TypeError: jQuery110201086197410113997_1499680905936 is not a function
+1499680914405	geckodriver	INFO	Listening on 127.0.0.1:20840
+1499680916369	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499680920290	Marionette	INFO	Listening on port 20847
+1499680920598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499680945739	Marionette	INFO	Ceased listening
+1499680947295	geckodriver	INFO	Listening on 127.0.0.1:20903
+1499680949361	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499680953112	Marionette	INFO	Listening on port 20909
+1499680953562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499680987874	Marionette	INFO	Ceased listening
+0.0.1:20972
+1499680975352	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499680979273	Marionette	INFO	Listening on port 20978
+1499680979769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499680985059	Marionette	INFO	Ceased listening
+1504259705384	geckodriver	INFO	Listening on 127.0.0.1:15929
+1504259707581	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504259710321	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504259711397	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1504259718027	Marionette	INFO	Listening on port 15937
+1504259718179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504259718195	Marionette	INFO	Listening on port 15937
+1504259718227	Marionette	DEBUG	loaded listener.js
+1504259718269	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504259718581	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504259718581	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504259719048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504259719102	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1453_13549_21117_20930&req=2&csor=2&pwd=s&cb=jQuery110207160539982934515_1504259718932&_=1504259718935, line 1: TypeError: jQuery110207160539982934515_1504259718932 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1453_13549_21117_20930&req=2&csor=4&pwd=sel&cb=jQuery110207160539982934515_1504259718932&_=1504259718937, line 1: TypeError: jQuery110207160539982934515_1504259718932 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1453_13549_21117_20930&req=2&csor=3&pwd=se&cb=jQuery110207160539982934515_1504259718932&_=1504259718936, line 1: TypeError: jQuery110207160539982934515_1504259718932 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1453_13549_21117_20930&req=2&csor=5&pwd=sele&cb=jQuery110207160539982934515_1504259718932&_=1504259718938, line 1: TypeError: jQuery110207160539982934515_1504259718932 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1453_13549_21117_20930&req=2&csor=6&pwd=selen&cb=jQuery110207160539982934515_1504259718932&_=1504259718939, line 1: TypeError: jQuery110207160539982934515_1504259718932 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1453_13549_21117_20930&req=2&csor=1&cb=jQuery110207160539982934515_1504259718932&_=1504259718934, line 1: TypeError: jQuery110207160539982934515_1504259718932 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1453_13549_21117_20930&req=2&csor=7&pwd=seleni&cb=jQuery110207160539982934515_1504259718932&_=1504259718940, line 1: TypeError: jQuery110207160539982934515_1504259718932 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium2&json=1&p=3&sid=1453_13549_21117_20930&req=2&csor=9&pwd=selenium&cb=jQuery110207160539982934515_1504259718932&_=1504259718942, line 1: TypeError: jQuery110207160539982934515_1504259718932 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1453_13549_21117_20930&req=2&csor=8&pwd=seleniu&cb=jQuery110207160539982934515_1504259718932&_=1504259718941, line 1: TypeError: jQuery110207160539982934515_1504259718932 is not a function
+1504259719577	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504259719580	Marionette	INFO	New connections will no longer be accepted
+1504259730530	geckodriver	INFO	Listening on 127.0.0.1:15999
+1504259732555	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504259732909	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504259733621	Marionette	INFO	Enabled via --marionette
+[Parent 10996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13756] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13756] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504259738548	Marionette	INFO	Listening on port 16005
+1504259738589	Marionette	INFO	Listening on port 16005
+1504259738841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504259738878	Marionette	DEBUG	loaded listener.js
+1504259738906	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504259739059	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504259739059	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504259739673	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504259739727	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1440_21082_18560_22073&req=2&csor=2&pwd=s&cb=jQuery110201533191720311694_1504259739454&_=1504259739457, line 1: TypeError: jQuery110201533191720311694_1504259739454 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1440_21082_18560_22073&req=2&csor=3&pwd=se&cb=jQuery110201533191720311694_1504259739454&_=1504259739458, line 1: TypeError: jQuery110201533191720311694_1504259739454 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1440_21082_18560_22073&req=2&csor=1&cb=jQuery110201533191720311694_1504259739454&_=1504259739456, line 1: TypeError: jQuery110201533191720311694_1504259739454 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1440_21082_18560_22073&req=2&csor=4&pwd=sel&cb=jQuery110201533191720311694_1504259739454&_=1504259739459, line 1: TypeError: jQuery110201533191720311694_1504259739454 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1440_21082_18560_22073&req=2&csor=5&pwd=sele&cb=jQuery110201533191720311694_1504259739454&_=1504259739460, line 1: TypeError: jQuery110201533191720311694_1504259739454 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1440_21082_18560_22073&req=2&csor=7&pwd=seleni&cb=jQuery110201533191720311694_1504259739454&_=1504259739462, line 1: TypeError: jQuery110201533191720311694_1504259739454 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium2&json=1&p=3&sid=1440_21082_18560_22073&req=2&csor=9&pwd=selenium&cb=jQuery110201533191720311694_1504259739454&_=1504259739464, line 1: TypeError: jQuery110201533191720311694_1504259739454 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1440_21082_18560_22073&req=2&csor=8&pwd=seleniu&cb=jQuery110201533191720311694_1504259739454&_=1504259739463, line 1: TypeError: jQuery110201533191720311694_1504259739454 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1440_21082_18560_22073&req=2&csor=6&pwd=selen&cb=jQuery110201533191720311694_1504259739454&_=1504259739461, line 1: TypeError: jQuery110201533191720311694_1504259739454 is not a function
+1504259740118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504259740121	Marionette	INFO	New connections will no longer be accepted
+1504259763936	geckodriver	INFO	Listening on 127.0.0.1:16056
+1504259766027	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504259766364	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504259767030	Marionette	INFO	Enabled via --marionette
+1504259770321	Marionette	INFO	Listening on port 16062
+1504259770327	Marionette	INFO	Listening on port 16062
+1504259771274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504259771312	Marionette	DEBUG	loaded listener.js
+1504259771340	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504259771504	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504259771504	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504259771726	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504259771963	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=22949_1458_21114_18560_23384_22074&req=2&csor=2&pwd=s&cb=jQuery110209818457528948116_1504259771637&_=1504259771640, line 1: TypeError: jQuery110209818457528948116_1504259771637 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=22949_1458_21114_18560_23384_22074&req=2&csor=1&cb=jQuery110209818457528948116_1504259771637&_=1504259771639, line 1: TypeError: jQuery110209818457528948116_1504259771637 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=22949_1458_21114_18560_23384_22074&req=2&csor=3&pwd=se&cb=jQuery110209818457528948116_1504259771637&_=1504259771641, line 1: TypeError: jQuery110209818457528948116_1504259771637 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=22949_1458_21114_18560_23384_22074&req=2&csor=4&pwd=sel&cb=jQuery110209818457528948116_1504259771637&_=1504259771642, line 1: TypeError: jQuery110209818457528948116_1504259771637 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=22949_1458_21114_18560_23384_22074&req=2&csor=7&pwd=seleni&cb=jQuery110209818457528948116_1504259771637&_=1504259771645, line 1: TypeError: jQuery110209818457528948116_1504259771637 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=22949_1458_21114_18560_23384_22074&req=2&csor=8&pwd=seleniu&cb=jQuery110209818457528948116_1504259771637&_=1504259771646, line 1: TypeError: jQuery110209818457528948116_1504259771637 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium2&json=1&p=3&sid=22949_1458_21114_18560_23384_22074&req=2&csor=9&pwd=selenium&cb=jQuery110209818457528948116_1504259771637&_=1504259771647, line 1: TypeError: jQuery110209818457528948116_1504259771637 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=22949_1458_21114_18560_23384_22074&req=2&csor=6&pwd=selen&cb=jQuery110209818457528948116_1504259771637&_=1504259771644, line 1: TypeError: jQuery110209818457528948116_1504259771637 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=22949_1458_21114_18560_23384_22074&req=2&csor=5&pwd=sele&cb=jQuery110209818457528948116_1504259771637&_=1504259771643, line 1: TypeError: jQuery110209818457528948116_1504259771637 is not a function
+1504259772350	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504259775363	Marionette	INFO	New connections will no longer be accepted
+1505983742714	geckodriver	INFO	Listening on 127.0.0.1:33498
+1505983744830	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505983746637	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505983747792	Marionette	INFO	Enabled via --marionette
+[Parent 12716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505983754163	Marionette	INFO	Listening on port 33527
+[Child 14760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505983754205	Marionette	INFO	Listening on port 33527
+1505983754602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505983754664	Marionette	DEBUG	loaded listener.js
+1505983754725	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505983756009	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505983756009	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505983757817	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1505983758210	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1505983759220	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1505983759354	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1505983759361	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1505983759418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qq.com/"
+1505983759441	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qq.com/"
+JavaScript warning: http://www.qq.com/, line 1030: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505983762897	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qq.com/"
+1505983763079	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qq.com/"
+1505983763081	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qq.com/"
+1505983764271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201708/jdhj_QHU_20170802165025.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3410601%26cid%3D2079187%26loc%3DQQ_HP_Upright4%26soid%3DOnI%2FtwAAWcN9PQU2IwqICJvQAS42%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzkyNzYwMzg%3D%26index%3D1%26chl%3D478"
+1505983764391	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qq.com/"
+1505983764471	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201709/bjjdsj_QNEV_20170901175425.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3553097%26cid%3D2159277%26loc%3DQQCOM_N_Extend_Video%26soid%3DOnI%2FtwAAWcN9PQU2IwKs6nRYAS42%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzkyNzYwMzg%3D%26index%3D1%26chl%3D478"
+1505983764486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201708/jdhj_QNR_20170802164415.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3478879%26cid%3D2079103%26loc%3DQQCOM_N_Rectangle1%26soid%3DOnI%2FtwAAWcN9PQU2IwPg7N97AS42%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzkyNzYwMzg%3D%26index%3D1%26chl%3D478"
+1505983764542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201709/bjjdsj_QNR_20170901175534.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3553121%26cid%3D2159301%26loc%3DQQCOM_N_Rectangle3%26soid%3DOnI%2FtwAAWcN9PQU2IwnjkTmhAS42%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzkyNzYwMzg%3D%26index%3D1%26chl%3D478"
+1505983764678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://x.jd.com/exsites?spread_type=2&ad_ids=882:5&location_info=0&adflag=0&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170630002335&expose="
+1505983765423	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201612/snyscg_QW_20161230162910.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3546177%26cid%3D1821573%26loc%3DQQCOM_Width3%26soid%3DOnI%2FtwAAWcN9PQU2IwbOo9NbAS42%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzkyNzYwMzg%3D%26index%3D1%26chl%3D478"
+1505983765493	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://x.jd.com/exsites?spread_type=2&ad_ids=162:5&location_info=0&adflag=0&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170731002441&expose="
+1505983765911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201612/snyscg_QW_20161230162910.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3546177%26cid%3D1821573%26loc%3DQQCOM_Width3%26soid%3DOnI%2FtwAAWcN9PQU2IwbOo9NbAS42%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzkyNzYwMzg%3D%26index%3D1%26chl%3D478"
+1505983766152	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mmae.qtmojo.com/x?_t=8&_m=404_1235_279-80&_k=allyes_show_ads_60429051505983765412&_page=http%3A%2F%2Fwww.qq.com%2F&_rt=0&_pf=Win32&_h=1080&_w=1920&_pxr=1&_qe="
+1505983766172	Marionette	DEBUG	Received DOM event "pageshow" for "http://mmae.qtmojo.com/x?_t=8&_m=404_1235_279-80&_k=allyes_show_ads_60429051505983765412&_page=http%3A%2F%2Fwww.qq.com%2F&_rt=0&_pf=Win32&_h=1080&_w=1920&_pxr=1&_qe="
+1505983766190	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=3194:5&adflag=0&clkmn=&expose="
+1505983766223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wmcdn.qtmojo.cn/adxcm_base.htm"
+1505983766228	Marionette	DEBUG	Received DOM event "pageshow" for "http://wmcdn.qtmojo.cn/adxcm_base.htm"
+1505983766317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=3193:5&adflag=0&clkmn=&expose="
+1505983766351	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mmae.qtmojo.com/x?_t=8&_m=404_1235_279-80&_k=allyes_show_ads_60429051505983765412&_page=http%3A%2F%2Fwww.qq.com%2F&_rt=0&_pf=Win32&_h=1080&_w=1920&_pxr=1&_qe="
+1505983766370	Marionette	DEBUG	Received DOM event "pageshow" for "http://x.jd.com/exsites?spread_type=2&ad_ids=882:5&location_info=0&adflag=0&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170630002335&expose="
+1505983766374	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201708/jdhj_QHU_20170802165025.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3410601%26cid%3D2079187%26loc%3DQQ_HP_Upright4%26soid%3DOnI%2FtwAAWcN9PQU2IwqICJvQAS42%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzkyNzYwMzg%3D%26index%3D1%26chl%3D478"
+1505983766496	Marionette	DEBUG	Received DOM event "pageshow" for "http://x.jd.com/exsites?spread_type=2&ad_ids=162:5&location_info=0&adflag=0&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170731002441&expose="
+1505983766503	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201708/jdhj_QNR_20170802164415.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3478879%26cid%3D2079103%26loc%3DQQCOM_N_Rectangle1%26soid%3DOnI%2FtwAAWcN9PQU2IwPg7N97AS42%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzkyNzYwMzg%3D%26index%3D1%26chl%3D478"
+1505983766527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wmt.qtmojo.com/win?exid=1&pdt=1&apr=qHHGlmCoFteBYYDIR1VaancwU3hPMEJUZXdYNjY2Qw&d=ifc&ni=1,58176312,25944,5817&aid=GUZjw0SxO0BTewX666C&a=eW1Jx9P4FqHk9CrXE3l0Nf0KcF000&GEO=CNGDGZ00&rf=http%3A%2F%2Fwww.qq.com%2F&pfs=www.qq.com,1000,90,0,10000000,5000000,0,0,0,0"
+1505983766528	Marionette	DEBUG	Received DOM event "pageshow" for "http://wmt.qtmojo.com/win?exid=1&pdt=1&apr=qHHGlmCoFteBYYDIR1VaancwU3hPMEJUZXdYNjY2Qw&d=ifc&ni=1,58176312,25944,5817&aid=GUZjw0SxO0BTewX666C&a=eW1Jx9P4FqHk9CrXE3l0Nf0KcF000&GEO=CNGDGZ00&rf=http%3A%2F%2Fwww.qq.com%2F&pfs=www.qq.com,1000,90,0,10000000,5000000,0,0,0,0"
+1505983766543	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mmae.qtmojo.com/x?_t=11&_imd=GUZjw0SxO0BTewX666C&_by=146&_crid=D-146-25944&_ads=279-80&_deal_id=&_pr=hBKdMHp%3D571&_pf=Win32&_page=http%3A%2F%2Fwww.qq.com%2F"
+1505983766545	Marionette	DEBUG	Received DOM event "pageshow" for "http://mmae.qtmojo.com/x?_t=11&_imd=GUZjw0SxO0BTewX666C&_by=146&_crid=D-146-25944&_ads=279-80&_deal_id=&_pr=hBKdMHp%3D571&_pf=Win32&_page=http%3A%2F%2Fwww.qq.com%2F"
+1505983767843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ra.gtimg.com/icast/3591613/1.html?_3591613,main,//c.l.qq.com/lclick%3Fseq%3D20170918000622%26loc%3DWWW_RM_RightMove1"
+1505983767856	Marionette	DEBUG	Received DOM event "pageshow" for "http://ra.gtimg.com/icast/3591613/1.html?_3591613,main,//c.l.qq.com/lclick%3Fseq%3D20170918000622%26loc%3DWWW_RM_RightMove1"
+1505983768299	Marionette	DEBUG	Received DOM event "pageshow" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=3193:5&adflag=0&clkmn=&expose="
+1505983768304	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201709/bjjdsj_QNEV_20170901175425.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3553097%26cid%3D2159277%26loc%3DQQCOM_N_Extend_Video%26soid%3DOnI%2FtwAAWcN9PQU2IwKs6nRYAS42%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzkyNzYwMzg%3D%26index%3D1%26chl%3D478"
+1505983768712	Marionette	DEBUG	Received DOM event "pageshow" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=3194:5&adflag=0&clkmn=&expose="
+1505983768714	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201709/bjjdsj_QNR_20170901175534.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3553121%26cid%3D2159301%26loc%3DQQCOM_N_Rectangle3%26soid%3DOnI%2FtwAAWcN9PQU2IwnjkTmhAS42%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzkyNzYwMzg%3D%26index%3D1%26chl%3D478"
+[Parent 12716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505983787404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v.qq.com/iframe/clientpull.html?time=10000"
+1505983787409	Marionette	DEBUG	Received DOM event "pageshow" for "http://v.qq.com/iframe/clientpull.html?time=10000"
+1505983812195	Marionette	DEBUG	Received DOM event "pageshow" for "http://mmae.qtmojo.com/x?_t=8&_m=404_1235_279-80&_k=allyes_show_ads_60429051505983765412&_page=http%3A%2F%2Fwww.qq.com%2F&_rt=0&_pf=Win32&_h=1080&_w=1920&_pxr=1&_qe="
+1505983812196	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201612/snyscg_QW_20161230162910.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3546177%26cid%3D1821573%26loc%3DQQCOM_Width3%26soid%3DOnI%2FtwAAWcN9PQU2IwbOo9NbAS42%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzkyNzYwMzg%3D%26index%3D1%26chl%3D478"
+1505983815699	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qq.com/"
+1505983815741	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.qq.com/"
+1505983815792	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.qq.com/"
+1505983815793	Marionette	DEBUG	Received DOM event "unload" for "http://www.qq.com/"
+1505983815921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1505983815922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1505983815923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1505983815924	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1505983815925	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1505983815925	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1505983815926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1505983815926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1505983815947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1505983815948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1505983815949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1505983815949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1505983815949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1505983815950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1505983815950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1505983815950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1505983815950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1505983815950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1505983816109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1505983816163	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1505983819173	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1505983819282	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1505983819286	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1505983819325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qq.com/"
+1505983819339	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qq.com/"
+JavaScript warning: http://www.qq.com/, line 1030: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1505983820103	Marionette	DEBUG	loaded listener.js
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505983820306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qq.com/"
+1505983820307	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qq.com/"
+1505983820420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qq.com/"
+1505983820923	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qq.com/"
+1505983820927	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201709/bjjdsj_QNEV_20170901175425.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3553087%26cid%3D2159267%26loc%3DQQCOM_N_Extend_Video%26soid%3DOnI%2FtwAAWcN9dgl5RwJ5TUxuAVp5%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzk0MDcxNDY%3D%26index%3D1%26chl%3D478"
+1505983820928	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201708/jdhj_QNR_20170802164415.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3478879%26cid%3D2079103%26loc%3DQQCOM_N_Rectangle1%26soid%3DOnI%2FtwAAWcN9dgl5RwPdANS%2BAVp5%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzk0MDcxNDY%3D%26index%3D1%26chl%3D478"
+1505983820929	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201709/bjjdsj_QNR_20170901175534.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3553127%26cid%3D2159307%26loc%3DQQCOM_N_Rectangle3%26soid%3DOnI%2FtwAAWcN9dgl5RwnNdu75AVp5%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzk0MDcxNDY%3D%26index%3D1%26chl%3D478"
+1505983820930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201708/jdhj_QHU_20170802165106.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3410597%26cid%3D2079199%26loc%3DQQ_HP_Upright4%26soid%3DOnI%2FtwAAWcN9dgl5Rwr1wlEcAVp5%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzk0MDcxNDY%3D%26index%3D1%26chl%3D478"
+1505983821070	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201612/snyscg_QW_20161230162910.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3546183%26cid%3D1821573%26loc%3DQQCOM_Width3%26soid%3DOnI%2FtwAAWcN9dgl5RwYrhG5AAVp5%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzk0MDcxNDY%3D%26index%3D1%26chl%3D478"
+1505983821073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=3193:5&adflag=0&clkmn=&expose="
+1505983821229	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=3194:5&adflag=0&clkmn=&expose="
+1505983821690	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wmcdn.qtmojo.cn/adxcm_base.htm"
+1505983821692	Marionette	DEBUG	Received DOM event "pageshow" for "http://wmcdn.qtmojo.cn/adxcm_base.htm"
+1505983821695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201612/snyscg_QW_20161230162910.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3546183%26cid%3D1821573%26loc%3DQQCOM_Width3%26soid%3DOnI%2FtwAAWcN9dgl5RwYrhG5AAVp5%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzk0MDcxNDY%3D%26index%3D1%26chl%3D478"
+1505983821732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://x.jd.com/exsites?spread_type=2&ad_ids=162:5&location_info=0&adflag=0&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170731002441&expose="
+1505983821735	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://x.jd.com/exsites?spread_type=2&ad_ids=882:5&location_info=0&adflag=0&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170630002332&expose="
+1505983821774	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mmae.qtmojo.com/x?_t=8&_m=404_1235_279-80&_k=allyes_show_ads_80954541505983821054&_page=http%3A%2F%2Fwww.qq.com%2F&_rt=0&_pf=Win32&_h=1080&_w=1920&_pxr=1&_qe="
+1505983821777	Marionette	DEBUG	Received DOM event "pageshow" for "http://mmae.qtmojo.com/x?_t=8&_m=404_1235_279-80&_k=allyes_show_ads_80954541505983821054&_page=http%3A%2F%2Fwww.qq.com%2F&_rt=0&_pf=Win32&_h=1080&_w=1920&_pxr=1&_qe="
+1505983821794	Marionette	DEBUG	Received DOM event "pageshow" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=3193:5&adflag=0&clkmn=&expose="
+1505983821795	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201709/bjjdsj_QNEV_20170901175425.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3553087%26cid%3D2159267%26loc%3DQQCOM_N_Extend_Video%26soid%3DOnI%2FtwAAWcN9dgl5RwJ5TUxuAVp5%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzk0MDcxNDY%3D%26index%3D1%26chl%3D478"
+1505983821849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mmae.qtmojo.com/x?_t=8&_m=404_1235_279-80&_k=allyes_show_ads_80954541505983821054&_page=http%3A%2F%2Fwww.qq.com%2F&_rt=0&_pf=Win32&_h=1080&_w=1920&_pxr=1&_qe="
+1505983821930	Marionette	DEBUG	Received DOM event "pageshow" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=3194:5&adflag=0&clkmn=&expose="
+1505983821932	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201709/bjjdsj_QNR_20170901175534.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3553127%26cid%3D2159307%26loc%3DQQCOM_N_Rectangle3%26soid%3DOnI%2FtwAAWcN9dgl5RwnNdu75AVp5%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzk0MDcxNDY%3D%26index%3D1%26chl%3D478"
+1505983821934	Marionette	DEBUG	Received DOM event "pageshow" for "http://x.jd.com/exsites?spread_type=2&ad_ids=162:5&location_info=0&adflag=0&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170731002441&expose="
+1505983821936	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201708/jdhj_QNR_20170802164415.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3478879%26cid%3D2079103%26loc%3DQQCOM_N_Rectangle1%26soid%3DOnI%2FtwAAWcN9dgl5RwPdANS%2BAVp5%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzk0MDcxNDY%3D%26index%3D1%26chl%3D478"
+1505983821943	Marionette	DEBUG	Received DOM event "pageshow" for "http://x.jd.com/exsites?spread_type=2&ad_ids=882:5&location_info=0&adflag=0&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170630002332&expose="
+1505983821944	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201708/jdhj_QHU_20170802165106.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3410597%26cid%3D2079199%26loc%3DQQ_HP_Upright4%26soid%3DOnI%2FtwAAWcN9dgl5Rwr1wlEcAVp5%26click_data%3DdXNlcl9pbmZvPW9BRGptejA2RnhVPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MSZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxJnZpZXdpcD0xNzk0MDcxNDY%3D%26index%3D1%26chl%3D478"
+1505983821971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wmt.qtmojo.com/win?exid=1&pdt=1&apr=jauEAPsnpHpO9oY7R1Vaa3AzMm1aMEJUZXh3OENwbQ&d=ifc&ni=1,58176312,25944,5817&aid=GUZkp32mZ0BTexw8Cpm&a=eP1Kx9P4FqIDNCaXE3l0XmhoaMqh8&GEO=CNGDGZ00&rf=http%3A%2F%2Fwww.qq.com%2F&pfs=www.qq.com,1000,90,0,10000000,5000000,0,0,0,0"
+1505983821973	Marionette	DEBUG	Received DOM event "pageshow" for "http://wmt.qtmojo.com/win?exid=1&pdt=1&apr=jauEAPsnpHpO9oY7R1Vaa3AzMm1aMEJUZXh3OENwbQ&d=ifc&ni=1,58176312,25944,5817&aid=GUZkp32mZ0BTexw8Cpm&a=eP1Kx9P4FqIDNCaXE3l0XmhoaMqh8&GEO=CNGDGZ00&rf=http%3A%2F%2Fwww.qq.com%2F&pfs=www.qq.com,1000,90,0,10000000,5000000,0,0,0,0"
+1505983821992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ra.gtimg.com/icast/3591613/1.html?_3591613,main,//c.l.qq.com/lclick%3Fseq%3D20170918000622%26loc%3DWWW_RM_RightMove1"
+1505983822001	Marionette	DEBUG	Received DOM event "pageshow" for "http://ra.gtimg.com/icast/3591613/1.html?_3591613,main,//c.l.qq.com/lclick%3Fseq%3D20170918000622%26loc%3DWWW_RM_RightMove1"
+1505983823447	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967351"
+1505983995220	geckodriver	INFO	Listening on 127.0.0.1:39709
+1505983997246	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505983998114	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505983998963	Marionette	INFO	Enabled via --marionette
+1505984002254	Marionette	INFO	Listening on port 39761
+1505984002270	Marionette	INFO	Listening on port 39761
+1505984002590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505984002627	Marionette	DEBUG	loaded listener.js
+1505984002673	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505984002871	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505984002872	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505984003873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1505984004022	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1505984005054	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1505984005150	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1505984005155	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1505984005944	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.baidu.com/"
+1505984014155	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.baidu.com/"
+1505984015166	Marionette	DEBUG	Received DOM event "beforeunload" for "http://news.baidu.com/"
+1505984015193	Marionette	DEBUG	Received DOM event "pagehide" for "http://news.baidu.com/"
+1505984015194	Marionette	DEBUG	Received DOM event "unload" for "http://news.baidu.com/"
+1505984015439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1505984015477	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1505984018495	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1505984018558	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1505984018560	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1505984018812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.baidu.com/"
+1505984018905	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.baidu.com/"
+[Parent 12964] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4748] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505984270046	geckodriver	INFO	Listening on 127.0.0.1:44012
+1505984272102	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505984272548	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505984273375	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1505984276433	Marionette	INFO	Listening on port 44047
+1505984276442	Marionette	INFO	Listening on port 44047
+1505984277469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505984277513	Marionette	DEBUG	loaded listener.js
+1505984277554	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505984277780	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505984277781	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505984278324	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1505984278461	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1505984281440	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined
+[Child 13888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505984593251	geckodriver	INFO	Listening on 127.0.0.1:48553
+1505984595294	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505984595758	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505984596474	Marionette	INFO	Enabled via --marionette
+1505984599603	Marionette	INFO	Listening on port 48595
+1505984599676	Marionette	INFO	Listening on port 48595
+1505984600648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505984600686	Marionette	DEBUG	loaded listener.js
+1505984600719	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505984600885	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505984600886	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505984601151	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1505984604143	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Parent 11620] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15184] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505984630204	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Parent 15748] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505984633877	Marionette	INFO	Listening on port 49208
+1505984633901	Marionette	INFO	Listening on port 49208
+1505984634113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505984634150	Marionette	DEBUG	loaded listener.js
+1505984634178	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505984634369	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505984634369	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505984635033	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1505984635133	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1505984640396	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 15748] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7872] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7872] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505984875328	geckodriver	INFO	Listening on 127.0.0.1:52638
+1505984877354	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505984877784	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505984878497	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1505984881596	Marionette	INFO	Listening on port 52693
+1505984881609	Marionette	INFO	Listening on port 52693
+1505984881626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505984881666	Marionette	DEBUG	loaded listener.js
+1505984881755	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505984881929	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505984881930	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505984882457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1505984882640	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Child 3576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505984979856	geckodriver	INFO	Listening on 127.0.0.1:54201
+1505984981959	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505984982378	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505984983286	Marionette	INFO	Enabled via --marionette
+[Parent 11440] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13660] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13660] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505984986212	Marionette	INFO	Listening on port 54259
+1505984986220	Marionette	INFO	Listening on port 54259
+1505984987316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505984987360	Marionette	DEBUG	loaded listener.js
+1505984987430	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505984987657	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505984987657	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505984987924	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1505984987978	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Parent 11440] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16500] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16500] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+adExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505985032977	Marionette	INFO	Enabled via --marionette
+[Parent 5576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505985036802	Marionette	INFO	Listening on port 55121
+1505985036889	Marionette	INFO	Listening on port 55121
+1505985037200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505985037240	Marionette	DEBUG	loaded listener.js
+1505985037288	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505985037457	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505985037458	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505985037722	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1505985037782	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Parent 5576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13924] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506046721328	geckodriver	INFO	Listening on 127.0.0.1:9259
+1506046723584	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506046724818	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506046725907	Marionette	INFO	Enabled via --marionette
+1506046731553	Marionette	INFO	Listening on port 9267
+1506046731582	Marionette	INFO	Listening on port 9267
+1506046731624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506046731666	Marionette	DEBUG	loaded listener.js
+[Parent 10684] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506046771853	geckodriver	INFO	Listening on 127.0.0.1:9340
+1506046773941	geckodriver::marionette	INFO	Starting browser1506046774313	geckodriver::marionette	INFO	Starting browser D:\Program F1506046775477	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506046776326	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Parent 12456] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346151506046782418	Marionette	INFO	Listening on port 9352
+1506046782441	Marionette	INFO	Listening on port 9352
+1506046782481	Marionette	WAR1506046782486	Marionette	DEBUG	Received DOM event "beforeun1506046782976	Marionette	DEBUG	loaded listener.js
+1506046783051	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506046783178	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506046783178	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506046783623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506046784985	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1466_21103&req=2&csor=5&pwd=pyth&cb=jQuery11020495261907458843_1506046783377&_=1506046783383, line 1: TypeError: jQuery11020495261907458843_1506046783377 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1466_21103&req=2&csor=3&pwd=py&cb=jQuery11020495261907458843_1506046783377&_=1506046783381, line 1: TypeError: jQuery11020495261907458843_1506046783377 is not a function
+[Child 8484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506046802567	geckodriver	INFO	Listening on 127.0.0.1:9513
+1506046804691	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506046805443	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1506046806121	Marionette	INFO	Enabled via --marionette
+1506046808558	Marionette	INFO	Listening on port 9520
+1506046808784	Marionette	INFO	Listening on port 9520
+1506046808894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506046808943	Marionette	DEBUG	loaded listener.js
+1506046808969	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506046809073	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506046809073	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506046809489	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506046809575	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1423_21095_22073&req=2&csor=5&pwd=pyth&cb=jQuery110206173700948372445_1506046809227&_=1506046809233, line 1: TypeError: jQuery110206173700948372445_1506046809227 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=1423_21095_22073&req=2&csor=1&cb=jQuery110206173700948372445_1506046809227&_=1506046809229, line 1: TypeError: jQuery110206173700948372445_1506046809227 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1423_21095_22073&req=2&csor=4&pwd=pyt&cb=jQuery110206173700948372445_1506046809227&_=1506046809232, line 1: TypeError: jQuery110206173700948372445_1506046809227 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1423_21095_22073&req=2&csor=2&pwd=p&cb=jQuery110206173700948372445_1506046809227&_=1506046809230, line 1: TypeError: jQuery110206173700948372445_1506046809227 is not a function
+[Child 14056] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14056] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506046830901	Marionette	INFO	Enabled via --marionette
+[Parent 13420] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506046834014	Marionette	INFO	Listening on port 9605
+1506046834024	Marionette	INFO	Listening on port 9605
+1506046835107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506046835143	Marionette	DEBUG	loaded listener.js
+1506046835169	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506046835317	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506046835317	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506046835557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506046835616	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1460_21112_20718&req=2&csor=2&pwd=p&cb=jQuery110203678280826913122_1506046835479&_=1506046835482, line 1: TypeError: jQuery110203678280826913122_1506046835479 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=1460_21112_20718&req=2&csor=1&cb=jQuery110203678280826913122_1506046835479&_=1506046835481, line 1: TypeError: jQuery110203678280826913122_1506046835479 is not a function
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined
+[Child 14308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506046839876	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1506061511545	geckodriver	INFO	Listening on 127.0.0.1:52287
+1506061513874	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506061514942	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506061515822	Marionette	INFO	Enabled via --marionette
+1506061520109	Marionette	INFO	Listening on port 52293
+1506061520127	Marionette	INFO	Listening on port 52293
+1506061520326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506061520410	Marionette	DEBUG	loaded listener.js
+1506061520489	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506061520768	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506061520769	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506061523273	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://testerhorde.com/"
+1506061523764	Marionette	DEBUG	Received DOM event "pageshow" for "http://testerhorde.com/"
+1506061524041	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 15268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506061612539	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Parent 13616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506061616669	Marionette	INFO	Listening on port 52402
+[Child 8944] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8944] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506061616678	Marionette	INFO	Listening on port 52402
+1506061616899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506061616941	Marionette	DEBUG	loaded listener.js
+1506061616975	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506061617258	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506061617259	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506061619745	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://testerhorde.com/"
+1506061620340	Marionette	DEBUG	Received DOM event "pageshow" for "http://testerhorde.com/"
+1506061620610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506061621780	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 13876] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13876] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506061718325	geckodriver	INFO	Listening on 127.0.0.1:52528
+1506061720405	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506061721442	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506061722148	Marionette	INFO	Enabled via --marionette
+1506061725500	Marionette	INFO	Listening on port 52534
+1506061725510	Marionette	INFO	Listening on port 52534
+1506061725747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506061725785	Marionette	DEBUG	loaded listener.js
+1506061725822	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506061726077	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506061726078	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506061728655	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://testerhorde.com/"
+1506061729265	Marionette	DEBUG	Received DOM event "pageshow" for "http://testerhorde.com/"
+1506061729533	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 6508] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506061752113	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Child 14800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506061755744	Marionette	INFO	Listening on port 52608
+1506061755881	Marionette	INFO	Listening on port 52608
+1506061756209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506061756258	Marionette	DEBUG	loaded listener.js
+1506061756324	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506061756568	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506061756568	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506061759196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://testerhorde.com/"
+1506061759703	Marionette	DEBUG	Received DOM event "pageshow" for "http://testerhorde.com/"
+1506061759968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 10788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506062479712	geckodriver	INFO	Listening on 127.0.0.1:52849
+1506062481789	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506062482722	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506062483497	Marionette	INFO	Enabled via --marionette
+1506062487294	Marionette	INFO	Listening on port 52855
+1506062487310	Marionette	INFO	Listening on port 52855
+1506062487610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506062487657	Marionette	DEBUG	loaded listener.js
+1506062487765	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506062487981	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506062487982	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506062488333	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506062488420	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Parent 13860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4244] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506062547880	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Parent 13996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506062553039	Marionette	INFO	Listening on port 52926
+[Child 15116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506062553041	Marionette	INFO	Listening on port 52926
+1506062553501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506062553749	Marionette	DEBUG	loaded listener.js
+1506062553821	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506062553977	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506062553977	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506062554256	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506062554404	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Parent 13996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10736] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10736] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506062623566	geckodriver	INFO	Listening on 127.0.0.1:53001
+1506062625694	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506062626456	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506062627156	Marionette	INFO	Enabled via --marionette
+1506062630638	Marionette	INFO	Listening on port 53008
+1506062630644	Marionette	INFO	Listening on port 53008
+1506062630967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506062631011	Marionette	DEBUG	loaded listener.js
+1506062631040	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506062631268	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506062631268	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506062631763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506062631814	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Parent 13484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506062773686	geckodriver	INFO	Listening on 127.0.0.1:53082
+1506062775753	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506062776176	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506062777155	Marionette	INFO	Enabled via --marionette
+[Child 13724] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13724] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506062780956	Marionette	INFO	Listening on port 53089
+1506062780964	Marionette	INFO	Listening on port 53089
+1506062781027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506062781063	Marionette	DEBUG	loaded listener.js
+1506062781091	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506062781259	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506062781259	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506062781628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506062781877	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Child 10860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506069995143	geckodriver	INFO	Listening on 127.0.0.1:56849
+1506069997260	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506069998852	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506070000377	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1506070003977	Marionette	INFO	Listening on port 56857
+1506070004040	Marionette	INFO	Listening on port 56857
+1506070004805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506070004855	Marionette	DEBUG	loaded listener.js
+1506070004920	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506070005090	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506070005090	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506070005397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506070005474	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Parent 17204] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506070015110	geckodriver	INFO	Listening on 127.0.0.1:56914
+1506070017199	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506070017835	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506070018847	Marionette	INFO	Enabled via --marionette
+1506070022378	Marionette	INFO	Listening on port 56920
+1506070022386	Marionette	INFO	Listening on port 56920
+1506070022496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506070022533	Marionette	DEBUG	loaded listener.js
+1506070022703	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506070022847	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506070022847	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506070023253	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506070024376	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Parent 15944] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16964] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16964] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
