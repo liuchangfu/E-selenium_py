@@ -5,7 +5,7 @@ from email.header import Header
 from email.mime.multipart import MIMEMultipart
 
 my_sender = 'shift_1220@163.com'  # 发件人邮箱账号
-my_pass = 'lcfwku1220'  # 发件人邮箱密码(即授权码就是登录密码，授权码在所在的邮箱中设置)
+my_pass = 'password'  # 发件人邮箱密码(即授权码就是登录密码，授权码在所在的邮箱中设置)
 my_user = '172667104@qq.com'  # 收件人邮箱账号，我这边发送给自己
 
 def mail():

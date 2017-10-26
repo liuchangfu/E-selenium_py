@@ -5,7 +5,7 @@ from email.header import Header
 from email.mime.multipart import MIMEMultipart
 
 my_sender = '172667104@qq.com'  # 发件人邮箱账号
-my_pass = 'kcwntefyhtmacaid'  # 发件人邮箱密码(即授权码就是登录密码，授权码在所在的邮箱中设置)
+my_pass = 'password'  # 发件人邮箱密码(即授权码就是登录密码，授权码在所在的邮箱中设置)
 my_user = '172667104@qq.com'  # 收件人邮箱账号，我这边发送给自己
 
 
