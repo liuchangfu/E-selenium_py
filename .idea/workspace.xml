@@ -4,25 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/20171010/login_sina.py" line="29" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6622831d-0585-4f15-a3f9-677b469b835f" name="默认" comment="默认">
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170724/ex01.py" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170724/receive.py" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170724/redis_ex01.py" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170724/send.py" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170726/mysql01.py" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170727/orm_basic.py" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170824/test01.py" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170824/test1.html" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170824/test2.html" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170824/test3.html" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170929/add.py" />
-      <change type="NEW" beforePath="" afterPath="E:/python脚本/20170930/test1.py" />
-      <change type="MODIFICATION" beforePath="E:/python脚本/python例子/例子1.py" afterPath="E:/python脚本/python例子/例子1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="6622831d-0585-4f15-a3f9-677b469b835f" name="默认" comment=" 修改密码">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171026/find_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171026/thread_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171026/thread_test2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171026/thread_test3.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20171025/send_mail_qq.py" afterPath="$PROJECT_DIR$/20171025/send_mail_qq.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20171025/send_mail_qq_att.py" afterPath="$PROJECT_DIR$/20171025/send_mail_qq_att.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,6 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/selenium_py$thread_test2.coverage" NAME="thread_test2 Coverage Results" MODIFIED="1509085207331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171026" />
     <SUITE FILE_PATH="coverage/selenium_py$runtest.coverage" NAME="runtest Coverage Results" MODIFIED="1508840266881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171023/Test Case" />
     <SUITE FILE_PATH="coverage/selenium_py$alert.coverage" NAME="alert Coverage Results" MODIFIED="1507866217103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171013" />
     <SUITE FILE_PATH="coverage/selenium_py$csv.coverage" NAME="csv Coverage Results" MODIFIED="1508310054686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171018" />
@@ -65,9 +53,11 @@
     <SUITE FILE_PATH="coverage/selenium_py$wordpress_login__1_.coverage" NAME="wordpress_login (1) Coverage Results" MODIFIED="1508466973162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/selenium_py$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1508832500088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171024" />
     <SUITE FILE_PATH="coverage/selenium_py$Unittests_for_test_sub_TestSub_test_sub1.coverage" NAME="Unittests for test_sub.TestSub.test_sub1 Coverage Results" MODIFIED="1508748862697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171023/Test Case" />
+    <SUITE FILE_PATH="coverage/selenium_py$thread_test.coverage" NAME="thread_test Coverage Results" MODIFIED="1509084968252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171026" />
     <SUITE FILE_PATH="coverage/selenium_py$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1506766543774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/python脚本/20170930" />
     <SUITE FILE_PATH="coverage/selenium_py$farme.coverage" NAME="farme Coverage Results" MODIFIED="1507628516812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171010" />
     <SUITE FILE_PATH="coverage/selenium_py$Unittests_in_test_age_py.coverage" NAME="Unittests in test_age.py Coverage Results" MODIFIED="1508751806836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171023" />
+    <SUITE FILE_PATH="coverage/selenium_py$thread_test3.coverage" NAME="thread_test3 Coverage Results" MODIFIED="1509085859632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171026" />
     <SUITE FILE_PATH="coverage/selenium_py$login_sina.coverage" NAME="login_sina Coverage Results" MODIFIED="1507623520770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171010" />
     <SUITE FILE_PATH="coverage/selenium_py$send_mail_qq.coverage" NAME="send_mail_qq Coverage Results" MODIFIED="1508926337072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171025" />
     <SUITE FILE_PATH="coverage/selenium_py$xpath_location.coverage" NAME="xpath_location Coverage Results" MODIFIED="1506046827297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20170921" />
@@ -81,66 +71,39 @@
     <SUITE FILE_PATH="coverage/selenium_py$test.coverage" NAME="test Coverage Results" MODIFIED="1508495713982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171019" />
     <SUITE FILE_PATH="coverage/selenium_py$Unittests_for_count_un_TestCount_test_add.coverage" NAME="Unittests for count_un.TestCount.test_add Coverage Results" MODIFIED="1508743183369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171023" />
     <SUITE FILE_PATH="coverage/selenium_py$baidu_open__1_.coverage" NAME="baidu_open (1) Coverage Results" MODIFIED="1505982138167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20170921" />
+    <SUITE FILE_PATH="coverage/selenium_py$find_file.coverage" NAME="find_file Coverage Results" MODIFIED="1508999581433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171026" />
     <SUITE FILE_PATH="coverage/selenium_py$user_csv.coverage" NAME="user_csv Coverage Results" MODIFIED="1508404627315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171019" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="send_mai_att.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20171025/send_mai_att.py">
+      <file leaf-file-name="thread_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20171026/thread_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thread_test3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20171026/thread_test3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#7#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="send_mail_qq.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20171025/send_mail_qq.py">
+      <file leaf-file-name="thread_test2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20171026/thread_test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="send_mail_163.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20171025/send_mail_163.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="send_mail_qq_att.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20171025/send_mail_qq_att.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="send_mail.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20171025/send_mail.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="405">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -166,11 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/20170921/页面切换.py" />
-        <option value="$PROJECT_DIR$/20170921/窗口大小.py" />
-        <option value="$PROJECT_DIR$/20170921/截屏.py" />
-        <option value="$PROJECT_DIR$/20170921/定位元素.py" />
-        <option value="$PROJECT_DIR$/20170921/xpath_location.py" />
         <option value="$PROJECT_DIR$/20170921/css_location.py" />
         <option value="$PROJECT_DIR$/20170921/鼠标事件.py" />
         <option value="$PROJECT_DIR$/20170921/鼠标悬停事件.py" />
@@ -215,8 +173,13 @@
         <option value="$PROJECT_DIR$/20171025/send_mail.py" />
         <option value="$PROJECT_DIR$/20171025/send_mai_att.py" />
         <option value="$PROJECT_DIR$/20171025/send_mail_163.py" />
-        <option value="$PROJECT_DIR$/20171025/send_mail_qq_att.py" />
         <option value="$PROJECT_DIR$/20171025/send_mail_qq.py" />
+        <option value="$PROJECT_DIR$/20171025/send_mail_qq_att.py" />
+        <option value="$PROJECT_DIR$/20171026.py" />
+        <option value="$PROJECT_DIR$/20171026/find_file.py" />
+        <option value="$PROJECT_DIR$/20171026/thread_test.py" />
+        <option value="$PROJECT_DIR$/20171026/thread_test2.py" />
+        <option value="$PROJECT_DIR$/20171026/thread_test3.py" />
       </list>
     </option>
   </component>
@@ -255,12 +218,17 @@
               <item name="selenium_py" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium_py" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="selenium_py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium_py" type="462c0819:PsiDirectoryNode" />
+              <item name="20171026" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,14 +240,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\selenium_py\20171026" />
       <recent name="E:\selenium_py" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\selenium_py\20171026" />
       <recent name="E:\selenium_py\20171025" />
       <recent name="E:\selenium_py\20171024" />
       <recent name="E:\selenium_py\20171023\Test Case" />
       <recent name="E:\selenium_py\20171023" />
-      <recent name="E:\selenium_py\20171019" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -294,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.send_mail_163">
+  <component name="RunManager" selected="Python.thread_test3">
     <configuration name="Unittests for baidu_serach.baidu_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -487,38 +456,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="send_mai_att" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="find_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20171025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20171026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="selenium_py" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20171025/send_mai_att.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="send_mail" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20171025" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="selenium_py" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20171025/send_mail.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20171026/find_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -541,57 +492,75 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="send_mail_qq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="thread_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20171025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20171026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="selenium_py" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20171025/send_mail_qq.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20171026/thread_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="send_mail_qq_att" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="thread_test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20171025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20171026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="selenium_py" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20171025/send_mail_qq_att.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20171026/thread_test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="thread_test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20171026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="selenium_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20171026/thread_test3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.add" />
-      <item index="1" class="java.lang.String" itemvalue="Python.send_mail" />
-      <item index="2" class="java.lang.String" itemvalue="Python.send_mai_att" />
-      <item index="3" class="java.lang.String" itemvalue="Python.send_mail_qq" />
-      <item index="4" class="java.lang.String" itemvalue="Python.send_mail_qq_att" />
-      <item index="5" class="java.lang.String" itemvalue="Python.send_mail_163" />
+      <item index="1" class="java.lang.String" itemvalue="Python.send_mail_163" />
+      <item index="2" class="java.lang.String" itemvalue="Python.find_file" />
+      <item index="3" class="java.lang.String" itemvalue="Python.thread_test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.thread_test2" />
+      <item index="5" class="java.lang.String" itemvalue="Python.thread_test3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.send_mail_163" />
-        <item index="1" class="java.lang.String" itemvalue="Python.send_mail_qq_att" />
-        <item index="2" class="java.lang.String" itemvalue="Python.send_mail_qq" />
-        <item index="3" class="java.lang.String" itemvalue="Python.send_mai_att" />
-        <item index="4" class="java.lang.String" itemvalue="Python.send_mail" />
+        <item index="0" class="java.lang.String" itemvalue="Python.thread_test3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.thread_test2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.thread_test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.find_file" />
+        <item index="4" class="java.lang.String" itemvalue="Python.send_mail_163" />
       </list>
     </recent_temporary>
   </component>
@@ -620,7 +589,21 @@
       <option name="project" value="LOCAL" />
       <updated>1508999056795</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="默认">
+      <created>1508999084959</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508999084959</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" 修改密码">
+      <created>1508999236818</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1508999236818</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -669,16 +652,16 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34832758" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34832758" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34832758" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18562232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18830472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39907727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39907727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -722,39 +705,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="默认" />
-    <option name="LAST_COMMIT_MESSAGE" value="默认" />
+    <MESSAGE value=" 修改密码" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 修改密码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20170921/鼠标事件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170921/baidu_handle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/python脚本/img/step.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="296" column="0" lean-forward="false" selection-start-line="296" selection-start-column="0" selection-end-line="296" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/python脚本/20170930/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1404">
@@ -1056,50 +1014,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20171025/send_mai_att.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="567">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171025/send_mail_qq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20171025/send_mail_163.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        <state relative-caret-position="81">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="19" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20171025/send_mail_qq_att.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="81">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171025/send_mail_qq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#14#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171026/thread_test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171026/find_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20171025/send_mail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="27">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171026/thread_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171026/thread_test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="e#7#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
