@@ -11,13 +11,16 @@ class Login(unittest.TestCase):
 
     def test_login1(self):
         """正确的用户名和密码"""
+        #初始化用户名和密码
         username = 'liuchangfu'
         password = 'lcfwku1220'
-        self.br.find_element_by_id("user_login").clear()
-        self.br.find_element_by_id("user_login").send_keys(username)
-        self.br.find_element_by_id("user_pass").clear()
-        self.br.find_element_by_id("user_pass").send_keys(password)
-        self.br.find_element_by_id("wp-submit").click()
+        #调用login登录方法
+        self.login(username,password)
+        # self.br.find_element_by_id("user_login").clear()
+        # self.br.find_element_by_id("user_login").send_keys(username)
+        # self.br.find_element_by_id("user_pass").clear()
+        # self.br.find_element_by_id("user_pass").send_keys(password)
+        # self.br.find_element_by_id("wp-submit").click()
         #加入断言，是否已登录成功，登录成功的网址是否包含wp-admin
         self.assertTrue('wp-admin' in self.br.current_url)
         #先定位父节点，再定位子节点
@@ -29,42 +32,59 @@ class Login(unittest.TestCase):
 
     def test_login2(self):
         """正确的用户名和错误的密码"""
+        # 初始化用户名和密码
         username = "liuchangfu"
         password = "123456"
-        self.br.find_element_by_id("user_login").clear()
-        self.br.find_element_by_id("user_login").send_keys(username)
-        self.br.find_element_by_id("user_pass").clear()
-        self.br.find_element_by_id("user_pass").send_keys(password)
-        self.br.find_element_by_id("wp-submit").click()
+        # 初始化用户名和密码
+        self.login(username, password)
+        # self.br.find_element_by_id("user_login").clear()
+        # self.br.find_element_by_id("user_login").send_keys(username)
+        # self.br.find_element_by_id("user_pass").clear()
+        # self.br.find_element_by_id("user_pass").send_keys(password)
+        # self.br.find_element_by_id("wp-submit").click()
         assert_text = self.br.find_element_by_id("login_error").text
         self.assertEqual(assert_text,"错误：为用户名liuchangfu指定的密码不正确。 忘记密码？")
         time.sleep(3)
 
     def test_login3(self):
         """错误的用户名和正确的密码"""
+        # 初始化用户名和密码
         username = "test001"
         password = "lcfwku1220"
-        self.br.find_element_by_id("user_login").clear()
-        self.br.find_element_by_id("user_login").send_keys(username)
-        self.br.find_element_by_id("user_pass").clear()
-        self.br.find_element_by_id("user_pass").send_keys(password)
-        self.br.find_element_by_id("wp-submit").click()
+        # 初始化用户名和密码
+        self.login(username, password)
+        # self.br.find_element_by_id("user_login").clear()
+        # self.br.find_element_by_id("user_login").send_keys(username)
+        # self.br.find_element_by_id("user_pass").clear()
+        # self.br.find_element_by_id("user_pass").send_keys(password)
+        # self.br.find_element_by_id("wp-submit").click()
         assert_text = self.br.find_element_by_id("login_error").text
         self.assertEqual(assert_text,"错误：无效用户名。 忘记密码？")
         time.sleep(3)
 
     def test_login4(self):
         """错误的用户名和密码"""
+        # 初始化用户名和密码
         username = "test001"
         password = "test001"
+        # 初始化用户名和密码
+        self.login(username,password)
+        # self.br.find_element_by_id("user_login").clear()
+        # self.br.find_element_by_id("user_login").send_keys(username)
+        # self.br.find_element_by_id("user_pass").clear()
+        # self.br.find_element_by_id("user_pass").send_keys(password)
+        # self.br.find_element_by_id("wp-submit").click()
+        assert_text = self.br.find_element_by_id("login_error").text
+        self.assertEqual(assert_text, "错误：无效用户名。 忘记密码？")
+        time.sleep(3)
+
+    #登录写成login函数
+    def login(self,username,password):
         self.br.find_element_by_id("user_login").clear()
         self.br.find_element_by_id("user_login").send_keys(username)
         self.br.find_element_by_id("user_pass").clear()
         self.br.find_element_by_id("user_pass").send_keys(password)
         self.br.find_element_by_id("wp-submit").click()
-        assert_text = self.br.find_element_by_id("login_error").text
-        self.assertEqual(assert_text, "错误：无效用户名。 忘记密码？")
-        time.sleep(3)
 
     def tearDown(self):
         print("Test case end!!!")
