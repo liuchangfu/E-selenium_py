@@ -35,7 +35,7 @@ class Login(unittest.TestCase):
         # 初始化用户名和密码
         username = "liuchangfu"
         password = "123456"
-        # 初始化用户名和密码
+        # 调用login登录方法
         self.login(username, password)
         # self.br.find_element_by_id("user_login").clear()
         # self.br.find_element_by_id("user_login").send_keys(username)
@@ -51,7 +51,7 @@ class Login(unittest.TestCase):
         # 初始化用户名和密码
         username = "test001"
         password = "lcfwku1220"
-        # 初始化用户名和密码
+        # 调用login登录方法
         self.login(username, password)
         # self.br.find_element_by_id("user_login").clear()
         # self.br.find_element_by_id("user_login").send_keys(username)
@@ -67,7 +67,7 @@ class Login(unittest.TestCase):
         # 初始化用户名和密码
         username = "test001"
         password = "test001"
-        # 初始化用户名和密码
+        # 调用login登录方法
         self.login(username,password)
         # self.br.find_element_by_id("user_login").clear()
         # self.br.find_element_by_id("user_login").send_keys(username)
