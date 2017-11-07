@@ -22,7 +22,6 @@ for handle in handles:
 text1 = dr.find_element_by_css_selector(".inner").text
 print(text1)
 
-
 dr.get("http://192.168.1.113:10086/wordpress/wp-login.php")
 dr.find_element_by_id("user_login").clear()
 dr.find_element_by_id("user_login").send_keys("liuchangfu")
