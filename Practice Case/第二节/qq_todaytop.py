@@ -19,7 +19,7 @@ for handle in handles:
     if dr.current_window_handle != handle:
         dr.switch_to.window(handle)
 #获取当前窗口的正文信息
-text1 = dr.find_element_by_css_selector(".inner").text
+text1 = dr.find_element_by_id("articleContent").text
 print(text1)
 
 dr.get("http://192.168.1.113:10086/wordpress/wp-login.php")
