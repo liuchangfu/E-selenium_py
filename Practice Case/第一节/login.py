@@ -6,7 +6,7 @@ import time
 class Login(unittest.TestCase):
     def setUp(self):
         print("Test case begin!!!")
-        self.br = webdriver.Firefox()
+        self.br = webdriver.Chrome()
         self.br.get("http://192.168.1.113:10086/wordpress/wp-login.php")
 
     def test_login1(self):
@@ -80,17 +80,18 @@ class Login(unittest.TestCase):
         self.assertEqual(assert_text, "错误：用户名一栏为空。")
         time.sleep(3)
 
-    # def test_login7(self):
-    #     """用户名和密码都为空"""
-    #     # 初始化用户名和密码
-    #     username = ""
-    #     password = ""
-    #     # 调用login登录方法
-    #     self.login(username, password)
-    #     assert_text = self.br.find_element_by_id("login_error").is_displayed()
-    #     print(assert_text)
-    #     # self.assert(assert_text)
-    #     time.sleep(3)
+    def test_login7(self):
+        """用户名和密码都为空"""
+        # 初始化用户名和密码
+        username = ""
+        password = ""
+        # 调用login登录方法
+        self.login(username, password)
+        try:
+            self.br.find_element_by_id("wp-submit").is_displayed()
+            print("Test pass")
+        except  Exception as e:
+            print('Test fail', format(e))
 
     #登录写成login函数
     def login(self,username,password):
@@ -113,7 +114,7 @@ if __name__=="__main__":
     testunit.addTest(Login("test_login4"))
     testunit.addTest(Login("test_login5"))
     testunit.addTest(Login("test_login6"))
-    # testunit.addTest(Login("test_login7"))
+    testunit.addTest(Login("test_login7"))
     now_time = time.strftime("%Y_%m_%d_%H_%M_%S")
     filename = "E:\\selenium_py\\Practice Case\\第一节\\"+now_time+"_result.html"
     fp = open(filename,"wb")
